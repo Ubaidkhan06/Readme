@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ubaidkhan06
+- 👋 Hi, I’m Ubaid Khan
 - 👀 I’m interested in web development with django and flask.
 - 🌱 I’m currently learning django,flask and creating rest api's
 - 💞️ I’m looking to collaborate on some open source projects
